@@ -1,3 +1,7 @@
+# mic
+.DS_Store
+
+# java
 *.class
 
 # Package Files #
